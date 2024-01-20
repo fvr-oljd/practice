@@ -1,0 +1,1 @@
+Use pull requests for code reviews. This practice ensures that changes are reviewed by team members before being merged into the main project. It helps maintain code quality and consistency.
